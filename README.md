@@ -85,7 +85,8 @@ Each project includes its own:
 
 ## Author
 
-This repository is maintained by a developer currently learning C# and software development fundamentals: [irem bekdemir](https://github.com/irembekdemir)
+This repository is maintained by a developer currently learning C# and software development fundamentals:
+[irem bekdemir](https://github.com/irembekdemir)
 
 ## Motivation
 
