@@ -4,7 +4,7 @@ namespace CarRentalSystem.Models
     {
         public string Plate { get; set; }
         public string BrandModel { get; set; }
-        public string Type { get; set; } // SUV / Sedan / Hatchback
+        public string Type { get; set; } 
         public double DailyPrice { get; set; }
     }
 }
