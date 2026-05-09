@@ -129,7 +129,8 @@ This project was created for learning purposes to strengthen skills in:
 - Object-Oriented Design
 - Business logic implementation
 - Software architecture basics
-Developed by [GitHub Profile](https://github.com/irembekdemir) 
+  
+Developed by [irem bekdemir](https://github.com/irembekdemir) 
 
 ## Notes
 
