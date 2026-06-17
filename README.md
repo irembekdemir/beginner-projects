@@ -74,24 +74,9 @@ Each project includes its own:
 
 ---
 
-## Future Goals
-- Add more advanced C# projects
-- Build ASP.NET Core web applications
-- Improve code architecture (according to the clean code principles)
-- Work with databases (SQL Server)
-- Develop full-stack projects
-
----
-
 ## Author
-
-This repository is maintained by a developer currently learning C# and software development fundamentals:
 [irem bekdemir](https://github.com/irembekdemir)
 
-## Motivation
 
-*“Learning to code is learning to create solutions.”*
-
-This repo represents my journey in becoming a better developer.
 
 
