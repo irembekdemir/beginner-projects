@@ -1,8 +1,8 @@
-#  C# Learning Projects Repository
+#Learning Projects Repository
 
 ##  Overview
 
-This repository contains my **C# practice projects and exercises** created while learning process.
+This repository contains my **C#. Python, Java practice projects and exercises** created while learning process.
 
 The goal of this repository is to improve my skills in:
 - C# programming fundamentals
@@ -35,7 +35,7 @@ CSharp-Projects
 │
 ├── CarRentalSystem/
 ├── HOspitalAppoinmentSystem/
-├── [Future Project]/
+├── cute-todo-list/
 └── ...
 ```
 Each project includes its own:
