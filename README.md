@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This repository contains my **C# practice projects and exercises** created while learning software development.
+This repository contains my **C# practice projects and exercises** created while learning process.
 
 The goal of this repository is to improve my skills in:
 - C# programming fundamentals
@@ -10,19 +10,6 @@ The goal of this repository is to improve my skills in:
 - Problem solving
 - Console application development
 - Real-world logic implementation
-
----
-
-##  Repository Purpose
-
-This repo is a collection of small to medium projects built for learning purposes, including:
-
-- Console applications
-- Basic algorithms
-- OOP practice projects
-- Mini systems (e.g., reservation systems, management systems)
-
-Each project is designed to strengthen a specific programming concept.
 
 ---
 
@@ -47,6 +34,7 @@ Each folder inside this repository represents a separate project:
 CSharp-Projects
 │
 ├── CarRentalSystem/
+├── HOspitalAppoinmentSystem/
 ├── [Future Project]/
 └── ...
 ```
