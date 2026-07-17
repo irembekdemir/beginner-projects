@@ -1,29 +1,34 @@
 # Learning Projects Repository
 
-##  Overview
-
 This repository contains my **C#. Python, Java practice projects and exercises** created while learning process.
 
-The goal of this repository is to improve my skills in:
-- C# programming fundamentals
-- Object-Oriented Programming (OOP)
-- Problem solving
-- Console application development
-- Real-world logic implementation
+##  Projects Overview
+
+### 1. Car Rental Reservation System 🚗 (`car-rental-system`)
+A robust C# Console Application that simulates a real-world vehicle leasing workflow with persistence and automated financial auditing.
+- **Interface:** Command Line Interface (CLI) organized with an interactive control menu.
+- **Key Feature:** Automates date conflict mitigation by strictly validating overlapping reservation calendars while computing exact runtime rental quotes based on duration and dynamic daily pricing.
+- **Highlights:** Leverages `System.Text.Json` for automated state initialization and data serialization (`data.json`), incorporates modern LINQ pipelines to generate business analytics (e.g., total revenue generation, fleet demand profiles), and implements a clean multi-tiered architecture separating structural `Models` from business-critical `Services`.
+- **Note:** *The architectural design parameters, file directory layout, and business operational rules were structured and co-designed using AI (Gemini) assistance, while the complete multi-tier execution, JSON persistence mechanics, and data validation layers were fully implemented by me.*
 
 ---
 
-##  Topics Covered
+### 2. Hospital Appointment System 🏥 (`hospital-appointment-system`)
+A clean, modular console-based application designed to manage clinic workflows and appointment scheduling.
+- **Interface:** C# Console Application structured with clear Command Line Interface (CLI) menus.
+- **Key Feature:** Automates schedule validation by ensuring patients can only book verified doctor time slots, strictly preventing double-booking conflicts for the same date and time.
+- **Highlights:** Implements strong Object-Oriented Architecture (OOP) by separating models into dedicated files, utilizing C# Enums for department filtering, and leveraging LINQ (`.Where`, `.Any`) for efficient in-memory data queries.
+- **Note:** *The foundational application architecture and business logic validation were structured and co-designed using AI (Gemini) assistance, while the complete object implementation, refactored multi-file directory structure, and environment setup were managed by me.*
 
-- Variables, conditions, loops
-- Methods (functions)
-- Classes and objects
-- Encapsulation and OOP principles
-- Lists and collections
-- Date and time operations
-- File handling (in some projects)
-- Basic system design thinking
+---
 
+### 3. Cute To-Do List Application ✨ (`cute-todo-app`)
+A charming desktop task organizer featuring a light pastel aesthetic.
+- **Interface:** Built with `CustomTkinter` for a smooth, modern visual layout.
+- **Key Feature:** Automates spreadsheet updates by compiling active tasks into a color-coded, custom-styled Excel sheet (`todo_list.xlsx`) saved directly to your desktop.
+- **Highlights:** Dynamic checklist widget destruction on removal and auto-fitted Excel table dimensions using `openpyxl`.
+- **Note:** *The CustomTkinter GUI layout, widget structures were co-designed and generated using AI (Gemini) assistance, while the complete app architecture, environment structure, and spreadsheet automation logic were implemented by me.*
+  
 ---
 
 ##  Project Structure
@@ -48,7 +53,7 @@ Each project includes its own:
 
 ## How to Use
 - Clone the repository:
-```git clone https://github.com/irembekdemir/c-sharp-beginner-projects.git```
+```git clone https://github.com/irembekdemir/beginner-projects.git```
 - Open in IDE
 - Navigate to any project folder
 - Run the project using F5
